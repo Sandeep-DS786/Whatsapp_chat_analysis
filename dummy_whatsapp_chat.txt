@@ -1,0 +1,13 @@
+12/12/2022, 10:12 AM - John Doe: Hey, how are you doing?
+12/12/2022, 10:15 AM - Jane Smith: I'm good, thanks! How about you?
+12/12/2022, 10:16 AM - John Doe: I'm doing well. Just working on a new project.
+12/12/2022, 10:18 AM - Jane Smith: That sounds interesting. What's the project about?
+12/12/2022, 10:20 AM - John Doe: It's a data analysis project. I'm analyzing some chat data.
+12/12/2022, 10:25 AM - Jane Smith: Oh, nice! Anything I can help with?
+12/12/2022, 10:30 AM - John Doe: Actually, yes! Could you send me some of your chat data?
+12/12/2022, 10:35 AM - Jane Smith: Sure, I'll send it over in a bit.
+12/12/2022, 10:40 AM - John Doe: Thanks! That would be really helpful.
+12/12/2022, 11:00 AM - Jane Smith: Just sent it to your email.
+12/12/2022, 11:05 AM - John Doe: Got it. Thanks a lot!
+12/12/2022, 11:10 AM - Jane Smith: No problem. Good luck with your project!
+12/12/2022, 11:15 AM - John Doe: Thanks!
